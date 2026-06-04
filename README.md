@@ -36,7 +36,7 @@
 
 ### 方式二：手动安装
 
-1. 从 [Releases](https://github.com/XingYunStar/napcat-plugin-ai-chat/releases) 下载最新版本的 `.zip` 文件
+1. 从 [Releases](https://github.com/XingYunStar/napcat-plugin-ai-chat-pro/releases) 下载最新版本的 `.zip` 文件
 2. 解压到 NapCat 的 `plugins` 目录
 3. 重启 NapCat
 
@@ -88,7 +88,7 @@
 ## 🚀 使用说明
 
 1. 安装并启用插件
-2. 填写文本模型 API 地址和密钥（推荐 DeepSeek，可前往 [likefirefly.com](https://likefirefly.com/ai) 注册获取免费额度）
+2. 填写文本模型 API 地址和密钥（推荐 DeepSeek，可前往 [likefirefly.com/ai](https://likefirefly.com/ai) 注册获取免费额度）
 3. 保存配置后，点击"获取模型列表"或等待自动拉取，选择一个模型
 4. 设置唤醒词（如"机器人"），或开启 @ 触发
 5. 在群聊中发送 `机器人 你好` 或 `@Bot 你好`，即可开始对话
