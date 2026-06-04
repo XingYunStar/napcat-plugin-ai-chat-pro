@@ -41,7 +41,7 @@ jobs:
         run: |
           mkdir -p dist
           # 只打包必需的文件
-          zip -r dist/napcat-plugin-ai-chat.zip \
+          zip -r dist/napcat-plugin-ai-chat-pro.zip \
             index.mjs \
             package.json \
             README.md \
