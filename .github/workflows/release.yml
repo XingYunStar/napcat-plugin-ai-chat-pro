@@ -41,11 +41,12 @@ jobs:
         run: |
           mkdir -p dist
           # 只打包必需的文件
-          zip -r dist/napcat-plugin-group-invite-auto-approve.zip \
+          zip -r dist/napcat-plugin-ai-chat.zip \
             index.mjs \
             package.json \
             README.md \
             LICENSE \
+            webui/dashboard.html \
             -x "*.git*" -x ".github/*" -x "node_modules/*"
           
       - name: Create Release
