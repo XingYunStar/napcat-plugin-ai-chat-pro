@@ -1,7 +1,7 @@
 # AI 聊天插件
 
-[![GitHub release](https://img.shields.io/github/v/release/XingYunStar/napcat-plugin-ai-chat)](https://github.com/XingYunStar/napcat-plugin-ai-chat/releases)
-[![License](https://img.shields.io/github/license/XingYunStar/napcat-plugin-ai-chat)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/XingYunStar/napcat-plugin-ai-chat-pro)](https://github.com/XingYunStar/napcat-plugin-ai-chat-pro/releases)
+[![License](https://img.shields.io/github/license/XingYunStar/napcat-plugin-ai-chat-pro)](LICENSE)
 
 一个功能强大的 AI 聊天插件，支持 OpenAI 兼容 API，可接入 DeepSeek、SiliconFlow 等众多大模型，提供文本对话与视觉识别能力。
 
