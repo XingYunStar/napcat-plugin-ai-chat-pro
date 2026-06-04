@@ -1,0 +1,18 @@
+{
+  "name": "napcat-plugin-ai-chat-pro",
+  "plugin": "AI聊天",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.mjs",
+  "description": "QQ机器人AI聊天插件，支持文本对话与视觉识别。唤醒词/@触发、多轮对话记忆（可配置轮数）、黑白名单访问控制、分段回复、引用回复。兼容OpenAI格式API，支持DeepSeek/SiliconFlow等模型，自动获取模型列表，视觉模型优先处理图片消息。",
+  "author": "星陨",
+  "dependencies": {
+    "napcat-types": "0.0.16"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.1"
+  },
+  "scripts": {
+    "build": "vite build"
+  }
+}
